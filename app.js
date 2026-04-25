@@ -128,7 +128,7 @@ footer span{color:var(--accent)}
   <div class="orb orb1"></div>
   <div class="orb orb2"></div>
   <div class="orb orb3"></div>
-  <div class="hero-badge">🚀 Versión 2.0 Disponible</div>
+  <div class="hero-badge">🚀 Versión 4.0 Disponible</div>
   <h1>El Futuro es<br/><span class="grad" id="typed-text"></span></h1>
   <p>Plataforma de siguiente generación diseñada para equipos que quieren resultados extraordinarios.</p>
   <div class="hero-btns">
